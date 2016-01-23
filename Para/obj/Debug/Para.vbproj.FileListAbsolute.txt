@@ -1,0 +1,9 @@
+D:\MyProject\DLT-Scan\Para\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\DLT-Scan\Para\obj\Debug\Para.Resources.resources
+D:\MyProject\DLT-Scan\Para\obj\Debug\Para.vbproj.GenerateResource.Cache
+D:\MyProject\DLT-Scan\Para\bin\Debug\Para.dll
+D:\MyProject\DLT-Scan\Para\bin\Debug\Para.pdb
+D:\MyProject\DLT-Scan\Para\bin\Debug\Para.xml
+D:\MyProject\DLT-Scan\Para\obj\Debug\Para.dll
+D:\MyProject\DLT-Scan\Para\obj\Debug\Para.xml
+D:\MyProject\DLT-Scan\Para\obj\Debug\Para.pdb

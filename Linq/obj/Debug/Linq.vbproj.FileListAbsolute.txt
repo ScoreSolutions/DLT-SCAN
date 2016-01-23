@@ -1,0 +1,12 @@
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Linq.dll
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Linq.pdb
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Linq.xml
+D:\MyProject\DLT-Scan\Linq\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\DLT-Scan\Linq\obj\Debug\Linq.Resources.resources
+D:\MyProject\DLT-Scan\Linq\obj\Debug\Linq.vbproj.GenerateResource.Cache
+D:\MyProject\DLT-Scan\Linq\obj\Debug\Linq.dll
+D:\MyProject\DLT-Scan\Linq\obj\Debug\Linq.xml
+D:\MyProject\DLT-Scan\Linq\obj\Debug\Linq.pdb
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Para.dll
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Para.pdb
+D:\MyProject\DLT-Scan\Linq\bin\Debug\Para.xml

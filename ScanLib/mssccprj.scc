@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[ScanLib.csproj]
+SCC_Aux_Path = "\\sourcesafe\DLT-Scan"
+SCC_Project_Name = "$/DLT-Scan/ScanLib", IRAAAAAA

@@ -1,0 +1,16 @@
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\ScanLib.dll
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\ScanLib.pdb
+D:\MyProject\DLT-Scan\ScanLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\DLT-Scan\ScanLib\obj\Debug\ScanLib.dll
+D:\MyProject\DLT-Scan\ScanLib\obj\Debug\ScanLib.pdb
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Func.dll
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Func.pdb
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Func.xml
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\OCRTools.dll
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Para.dll
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Linq.dll
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Para.pdb
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Para.xml
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Linq.pdb
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\Linq.xml
+D:\MyProject\DLT-Scan\ScanLib\bin\Debug\itextsharp.dll
